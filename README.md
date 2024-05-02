@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python, C# y JavaScript
 - 💞️ I’m looking to collaborate on Juegos y Aplicaciones Web
 - 📫 How to reach me daurysyjoniken@gmail.com
-- 😄 Pronouns: Alex
+- 😄 Pronouns: Alexander
 - ⚡ Fun fact: Proceso de aprendizaje
 
 <!---
